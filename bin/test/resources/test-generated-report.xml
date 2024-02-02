@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Agent>
+    <Name>Apostolos Zarras</Name>
+    <AFM>130456093</AFM>
+    <TotalSales>17000.0</TotalSales>
+    <TrouserSales>10.0</TrouserSales>
+    <SkirtsSales>20.0</SkirtsSales>
+    <ShirtsSales>10.0</ShirtsSales>
+    <CoatsSales>20.0</CoatsSales>
+    <Commission>2050.0</Commission>
+</Agent>
